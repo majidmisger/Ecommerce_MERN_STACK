@@ -1,0 +1,21 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #0F2027; 
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);   
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.card_bg{
+  background: linear-gradient(to right, #434343 0%, black 100%);
+}
